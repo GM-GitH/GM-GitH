@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gm-gith&label=Profile%20views&color=0e75b6&style=flat" alt="gm-gith" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 Most of my projects are available on [github](https://github.com/GM-GitH?tab=repositories)
 
